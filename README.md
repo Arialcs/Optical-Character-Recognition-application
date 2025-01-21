@@ -16,6 +16,8 @@ This project is a **Text Recognition Scanner** application built using Python. T
 ### **Prerequisites**
 Ensure you have the following installed on your system:
 - **Python 3.8+**
+- ****tesseract OCR**
+- https://sourceforge.net/projects/tesseract-ocr.mirror/
 - **Required libraries**:  
   Install dependencies using `pip`:
   ```bash
