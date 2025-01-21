@@ -21,6 +21,7 @@ Ensure you have the following installed on your system:
   ```bash
   pip install -r requirements.txt
   ![image](https://github.com/user-attachments/assets/fa54af52-cdac-4d88-bee0-60ed46746ef8)
+![Screenshot 2025-01-20 213724](https://github.com/user-attachments/assets/be9b0dd9-d886-4c0c-86f4-a8c4cfc76986)
 
 ![Screenshot 2025-01-20 205135](https://github.com/user-attachments/assets/c74da701-9139-4543-835e-433ec0b682da)
 ![Screenshot 2025-01-20 204504](https://github.com/user-attachments/assets/6a94923f-83ee-4d56-bc1c-b74961bd3be9)
